@@ -1,0 +1,21 @@
+.home
+{
+    color: white;
+    
+    font-family: 'Times New Roman', Times, serif;
+    margin: 100px 100px 5px;
+    height: 75vh;
+}
+.home> p 
+{
+ 
+    font-weight: bold;
+    
+    font-size: 70px;
+}
+.home >a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}

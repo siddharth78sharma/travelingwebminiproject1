@@ -1,0 +1,25 @@
+
+
+.nav-link
+{
+    font-size: 15px;
+  margin: 10px;
+  color: white;
+    
+}
+.container-fluid
+{
+    margin-left: 8rem;
+    margin-top: 20px;   
+}
+.navbar-brand
+{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+}
+.btn
+{
+    border-radius: 20px;
+}
